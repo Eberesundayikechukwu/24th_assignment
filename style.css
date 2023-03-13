@@ -11,6 +11,7 @@
     transform: translate(-50%, -50%);
     border-radius: 7px;
     width: auto;
+    margin-top: 30px;
 }
 .result{
     background-color:black;
@@ -53,4 +54,8 @@ h1{
     font-size: 2rem;
     font-weight: bold;
     padding: 10px;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    color: red;
 }
